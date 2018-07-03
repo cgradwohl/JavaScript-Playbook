@@ -1,0 +1,9 @@
+{
+  "name": "JavaScript-Playbook",
+  "version": "0.1.0",
+  "description": "free learning content for javascript developers",
+  "main": "index.js",
+  "author": "Chris Gradwohl",
+  "license": "MIT",
+  "private": false
+}
